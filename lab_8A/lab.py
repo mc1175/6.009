@@ -168,4 +168,3 @@ if __name__ == '__main__':
         except:
             print("TokenizeError")
         user_input = input('>>>')
-
